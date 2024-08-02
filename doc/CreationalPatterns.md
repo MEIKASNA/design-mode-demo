@@ -28,3 +28,5 @@
     1.<b>原型接口 [示例代码](<../src/main/java/com/mei/creationalpatterns/prototypepattern/prototype/DefaultBean.java>)</b><br>
     2.<b>原型实现 [示例代码](<../src/main/java/com/mei/creationalpatterns/prototypepattern/prototype/OneBean.java>)</b><br>
     3.<b>原型工厂 [示例代码](<../src/main/java/com/mei/creationalpatterns/prototypepattern/cache/BeanCache.java>)</b><br>
+- [案例演示](<../src/main/java/com/mei/creationalpatterns/caseshow>)
+只是模拟了 beanContext 获取与注册 bean 的过程 保证了工厂的单例 
