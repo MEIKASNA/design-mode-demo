@@ -12,5 +12,6 @@ public class OneBean extends DefaultBean {
     @Override
     void doSomething() {
         System.out.println("OneBean doSomething");
+        System.out.println("?");
     }
 }
