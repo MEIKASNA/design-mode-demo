@@ -1,6 +1,5 @@
 package com.mei.creationalpatterns.prototypepattern.prototype;
 
-import org.springframework.context.annotation.Bean;
 
 /**
  * OneBean
